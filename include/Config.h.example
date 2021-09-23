@@ -7,5 +7,6 @@
 #define MQTT_PORT 1883
 #define MQTT_USER "enter_your_MQTT_user"
 #define MQTT_PASS "enter_your_MQTT_password"
+#define MQTT_TOPIC "base_topic_name"
 
 #endif
